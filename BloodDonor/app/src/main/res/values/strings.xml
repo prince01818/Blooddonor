@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Blood Donor</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search_option">Search option</string>
+    <string name="title_activity_add_details">Add Details Of Donor</string>
+    <string name="title_activity_donor_list">Donor List</string>
+    <string name="title_activity_show_details">" Details of Donor"</string>
+    <string name="title_activity_delete">Delete Donor</string>
+
+
+    <string-array name="CmdMenu">
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+    <string name="title_activity_update">Update Your Account</string>
+    <string name="title_activity_main">Blood Donation</string>
+    <string name="title_activity_search">Search</string>
+    <string name="title_activity_knowledge_donate">Some knowledge of Donation</string>
+
+</resources>

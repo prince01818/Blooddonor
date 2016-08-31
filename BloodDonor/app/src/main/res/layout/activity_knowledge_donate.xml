@@ -1,0 +1,170 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/index3"
+    tools:context="com.example.nipu.blooddonor.KnowledgeDonate">
+  <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+   <TextView
+       android:layout_marginTop="15dp"
+       android:layout_gravity="center"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="About of Donation "
+       android:textSize="25sp"
+       android:textStyle="italic"
+       android:textColor="#000"/>
+
+      <TextView
+          android:layout_marginTop="15dp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Tips for a Successful Donation:"
+          android:textSize="22sp"
+          android:textStyle="bold"
+          android:textColor="#000"/>
+
+      <TextView
+          android:layout_marginTop="15dp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="By following a few recommendations before, during and after your blood donation can help you make your donation experience as safe, successful and pleasant as possible."
+          android:textSize="18sp"
+          android:textColor="#000"/>
+
+      <TextView
+          android:layout_marginTop="15dp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Before Your Donation:"
+          android:textStyle="bold"
+          android:textSize="22sp"
+          android:textColor="#000"/>
+
+      <TextView
+          android:layout_marginTop="15dp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="1)Maintain a healthy iron level in your diet by eating iron rich foods, such as red meat, fish, poultry, beans, spinach, iron-fortified cereals and raisins.
+" android:textSize="18sp"
+          android:textColor="#000"/>
+
+      <TextView
+          android:layout_marginTop="15dp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="2)Get a good night's sleep."
+          android:textSize="18sp"
+          android:textColor="#000"/>
+
+      <TextView
+          android:layout_marginTop="15dp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="3)Drink an extra 16 oz. of water or nonalcoholic fluids before the donation."
+          android:textSize="18sp"
+          android:textColor="#000"/>
+
+
+      <TextView
+          android:layout_marginTop="15dp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="4)If you are a platelet donor, remember that your system must be free of aspirin for two days prior to donation."
+          android:textSize="18sp"
+          android:textColor="#000"/>
+
+      <TextView
+          android:layout_marginTop="15dp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="During Your Donation:"
+          android:textSize="22sp"
+          android:textStyle="bold"
+          android:textColor="#000"/>
+
+
+      <TextView
+          android:layout_marginTop="15dp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="1)Let the person taking your blood know if you have a preferred arm and show them any good veins that have been used successfully in the past to draw blood."
+          android:textSize="18sp"
+          android:textColor="#000"/>
+
+      <TextView
+          android:layout_marginTop="15dp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="2)Wear clothing with sleeves that can be raised above the elbow."
+          android:textSize="18sp"
+          android:textColor="#000"/>
+      <TextView
+          android:layout_marginTop="15dp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="3)Take the time to enjoy a snack and a drink in the refreshments area immediately after donating."
+          android:textSize="18sp"
+          android:textColor="#000"/>
+      <TextView
+          android:layout_marginTop="15dp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Aftering Your Donation:"
+          android:textSize="22sp"
+          android:textStyle="bold"
+          android:textColor="#000"/>
+
+      <TextView
+          android:layout_marginTop="15dp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="1)Drink an extra four (8 ounce) glasses of liquids and avoid alcohol over the next 24 hours."
+          android:textSize="18sp"
+          android:textColor="#000"/>
+
+      <TextView
+          android:layout_marginTop="15dp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="2)Remove the wrap bandage (if you had one put on your arm) within the next hour."
+          android:textSize="18sp"
+          android:textColor="#000"/>
+
+      <TextView
+          android:layout_marginTop="15dp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="3)Keep the strip bandage on for the next several hours."
+          android:textSize="18sp"
+          android:textColor="#000"/>
+      <TextView
+          android:layout_marginTop="15dp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="4)To avoid a skin rash, clean the area around the strip bandage with soap and water."
+          android:textSize="18sp"
+          android:textColor="#000"/>
+
+      <TextView
+          android:layout_marginTop="15dp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="5)Do not do any heavy lifting or vigorous exercise for the rest of the day."
+          android:textSize="18sp"
+          android:textColor="#000"/>
+
+      <TextView
+          android:layout_marginTop="15dp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="5)If the needle site starts to bleed, apply pressure to it and raise your arm straight up for about 5-10 minutes or until bleeding stops."
+          android:textSize="18sp"
+          android:textColor="#000"/>
+
+  </LinearLayout>
+</ScrollView>

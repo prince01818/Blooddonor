@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/option"
+    tools:context="com.example.nipu.blooddonor.SearchOption">
+
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Donor  List"
+        android:textStyle="bold"
+        android:background="#E60000"
+        android:textColor="#000"
+        android:id="@+id/donorlist"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="95dp" />
+
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/addDoner"
+        android:textSize="20sp"
+        android:background="#E60000"
+        android:text="Add  Donor"
+        android:textStyle="bold"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="About Donation"
+        android:id="@+id/about"
+        android:textColor="#000"
+        android:background="#E60000"
+        android:layout_below="@+id/donorlist"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="37dp" />
+
+
+</RelativeLayout>
